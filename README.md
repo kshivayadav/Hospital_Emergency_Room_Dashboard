@@ -4,6 +4,9 @@
 This project is an interactive Excel dashboard designed to analyze Hospital Emergency Room (ER) performance. It provides insights into patient volume, wait times, admission trends, demographics, consultation delays, and departmental referrals. 
 The dashboard is built to help hospital administrators and staff make data-driven decisions to optimize operations and improve patient care.
 
+![Hospital Dashboard]([https://raw.githubusercontent.com/username/repo/main/images/dashboard.png](https://github.com/kshivayadav/Hospital_Emergency_Room_Dashboard/blob/25a373b669fe70cdaf9b2928e273a389f43ac959/Hospital_Dashboard.png))
+
+
 📊 Key Features
 
 Dynamic Filtering: Slice data by Month and Year to generate custom reports.
